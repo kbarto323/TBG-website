@@ -139,25 +139,6 @@ a:hover {
     opacity: 0.95;
 }
 
-.logo-text {
-    font-size: 1.7rem;
-    font-weight: 700;
-    color: var(--text-hi);
-    line-height: 1.1;
-    letter-spacing: -0.01em;
-}
-
-.logo-text span {
-    display: block;
-    font-family: var(--mono);
-    font-size: 0.65rem;
-    font-weight: 500;
-    color: var(--text-dim);
-    letter-spacing: 0.3em;
-    text-transform: uppercase;
-    margin-top: 4px;
-}
-
 .nav-links {
     display: flex;
     list-style: none;
@@ -661,10 +642,6 @@ html.js .reveal.visible {
 
     .logo img {
         height: 60px;
-    }
-
-    .logo-text {
-        font-size: 1.3rem;
     }
 
     .hero {
