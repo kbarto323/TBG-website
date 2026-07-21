@@ -427,6 +427,7 @@ section {
 .work-logo {
     height: 150px;
     width: auto;
+    mix-blend-mode: multiply;
 }
 
 .work-details h3 {
