@@ -388,10 +388,15 @@ section {
     justify-content: center;
 }
 
-.browser-content img {
+.browser-content img,
+.browser-content video {
     width: 100%;
     height: auto;
     display: block;
+}
+
+.work-item + .work-item {
+    margin-top: 5rem;
 }
 
 .placeholder-content {
@@ -436,6 +441,21 @@ section {
     padding-left: 18px;
     border-left: 2px solid var(--gray-200);
     white-space: nowrap;
+}
+
+.work-details h3 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.work-details h3 a:hover {
+    text-decoration: underline;
+}
+
+.aperture-logo {
+    mix-blend-mode: normal;
+    border-radius: 14px;
+    height: 112px;
 }
 
 .work-details > p {
