@@ -458,6 +458,10 @@ section {
     height: 112px;
 }
 
+.alloy-logo {
+    height: 60px;
+}
+
 .work-details > p {
     color: var(--text-light);
     margin-bottom: 1rem;
