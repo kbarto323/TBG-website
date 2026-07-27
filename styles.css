@@ -534,6 +534,10 @@ section {
     text-shadow: 0 0 24px rgba(34, 211, 238, 0.5);
 }
 
+.contact-cta {
+    margin-bottom: 2.5rem;
+}
+
 .social-links {
     display: flex;
     justify-content: center;
