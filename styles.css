@@ -461,6 +461,10 @@ section {
     height: 66px;
 }
 
+.renew-logo {
+    height: 70px;
+}
+
 .work-details > p {
     color: var(--text);
     margin-bottom: 1rem;
