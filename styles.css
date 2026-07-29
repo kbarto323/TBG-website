@@ -457,6 +457,10 @@ section {
     height: 64px;
 }
 
+.benesense-logo {
+    height: 66px;
+}
+
 .work-details > p {
     color: var(--text);
     margin-bottom: 1rem;
